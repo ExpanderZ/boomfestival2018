@@ -1,0 +1,23 @@
+body {
+	background: #363f48;
+	background-image: url(boom.jpg);
+	color: white;
+	background-repeat:no-repeat;
+	background-size: 1920px 1100px;
+}
+
+p {
+	color: white;
+}
+
+#boomlogo {
+	width:800px;
+	margin-top:400px;
+	margin: 0 auto;
+	font: normal 16px 'Open Sans', sans-serif;
+	
+}
+h1 {
+	font-size:50px;
+}
+
